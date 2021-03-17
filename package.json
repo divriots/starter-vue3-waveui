@@ -1,0 +1,18 @@
+{
+  "name": "@divriots/starter-waveui",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "dsd-cli serve ClWqnU2zfkJN2VAUIYdI --open"
+  },
+  "devDependencies": {
+    "dsd-cli": "latest"
+  },
+  "dependencies": {
+    "vue": "next",
+    "wave-ui": "next"
+  }
+}

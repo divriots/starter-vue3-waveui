@@ -1,0 +1,22 @@
+{
+  "packages": {
+    "menu": [
+      "welcome",
+      [
+        "Components",
+        [
+          "button",
+          "card",
+          "alert"
+        ]
+      ],
+      [
+        "Infrastructure",
+        [
+          "story-helpers",
+          "mdx-layout"
+        ]
+      ]
+    ]
+  }
+}
