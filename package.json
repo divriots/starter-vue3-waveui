@@ -1,5 +1,5 @@
 {
-  "name": "@divriots/starter-waveui",
+  "name": "@divriots/starter-vue3-waveui",
   "version": "0.0.0",
   "description": "",
   "license": "ISC",
@@ -12,7 +12,7 @@
     "dsd-cli": "latest"
   },
   "dependencies": {
-    "vue": "next",
+    "vue": "3.0.7",
     "wave-ui": "next"
   }
 }
