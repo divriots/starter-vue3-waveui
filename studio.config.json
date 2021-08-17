@@ -9,45 +9,43 @@
           "badge",
           "breadcrumbs",
           "button",
-          "checkbox",
-          "checkboxes",
           "card",
           "dialog",
           "divider",
           "drawer",
-          "form",
           "icon",
           "image",
-          "input",
           "list",
           "menu",
           "notification",
           "overlay",
           "progress",
-          "radio",
-          "radios",
           "rating",
-          "select",
-          "slider",
           "spinner",
-          "switch",
           "tabs",
           "table",
           "tag",
-          "textarea",
           "timeline",
           "toolbar",
           "tooltip"
         ]
       ],
       [
-        "Infrastructure",
+        "Form elements",
         [
-          "story-helpers",
-          "mdx-layout",
-          "main"
+          "checkbox",
+          "checkboxes",
+          "input",
+          "form",
+          "radio",
+          "radios",
+          "select",
+          "slider",
+          "switch",
+          "textarea"
         ]
-      ]
+      ],
+      ["Dockit", ["story-helpers", "mdx-layout"]]
     ]
   }
 }

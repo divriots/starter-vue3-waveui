@@ -6,10 +6,7 @@
   "type": "module",
   "homepage": "{{ homepage }}",
   "scripts": {
-    "serve": "dsd-cli serve ClWqnU2zfkJN2VAUIYdI --open"
-  },
-  "devDependencies": {
-    "dsd-cli": "latest"
+    "serve": "npx backlight@latest serve ClWqnU2zfkJN2VAUIYdI --open"
   },
   "dependencies": {
     "vue": "3.0.7",
