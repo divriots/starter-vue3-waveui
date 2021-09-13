@@ -2,7 +2,7 @@
   "name": "@divriots/starter-vue3-waveui",
   "version": "0.0.0",
   "description": "",
-  "license": "ISC",
+  "license": "MIT",
   "type": "module",
   "homepage": "{{ homepage }}",
   "scripts": {
